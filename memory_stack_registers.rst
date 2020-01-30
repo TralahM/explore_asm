@@ -5,13 +5,13 @@ The code is a very simple program to add two integers passed as command line arg
 prints a string with the result
 
 .. include:: memory_demo.c
-   :literal:
    :code: c
    :number-lines: 1
    :tab-width: 4
 
 
 Compile using the command below and call the executable with some arguments..
+
 .. code:: console
 
    $ gcc -ggdb -o memory_demo memory_demo.c
@@ -19,6 +19,7 @@ Compile using the command below and call the executable with some arguments..
 
 
 In another separate window lets obtain the process id( **pid** ) of the program with
+
 .. code:: console
 
    $ ps -aux | grep memory_demo

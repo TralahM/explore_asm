@@ -4,10 +4,9 @@ Examing Memory,stack and registers in a simple C program using GDB
 The code is a very simple program to add two integers passed as command line arguments and
 prints a string with the result
 
-.. include:: memory_demo.c
-   :code: c
-   :number-lines: 1
-   :tab-width: 4
+.. literalinclude:: memory_demo.c
+   :language: c
+   :lines: 1
 
 
 Compile using the command below and call the executable with some arguments..

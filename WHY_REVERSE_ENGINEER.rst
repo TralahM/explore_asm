@@ -13,7 +13,7 @@ WHY Reverse Engineer?
 - Proprietary File Formats
 
 Assumptions
-~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------
 Knowledge of the following concepts:
 
 Endianness
@@ -25,7 +25,7 @@ Hexadecimal notation
 Intel Architecture
 
 The Stack
-~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------
 
 - *LIFO* data structure
 
@@ -53,7 +53,7 @@ The Text
 Contains The assembly instructions
 
 The Registers
-~~~~~~~~~~~~~~~
+------------------------------
 
 General Purpose
 ''''''''''''''''''''
@@ -198,7 +198,7 @@ OPERAND TYPES
 
 
 OPERATIONS
-~~~~~~~~~~~~
+------------------------
 
 - *mov*
 

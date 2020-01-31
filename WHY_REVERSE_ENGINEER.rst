@@ -88,7 +88,7 @@ Two letter abbrevs
 
    Stores Data segment
 
-3. **ES**,**FS**,**GS**
+3. **ES**, **FS**, **GS**
 
    Far addressing (video mem etc)
 
@@ -182,7 +182,7 @@ OPERAND TYPES
 
 - Registers :
 
-  **EAX**,....**ECX** the values themselves
+  **EAX**, .... **ECX** the values themselves
 
 - Memory adrresses
 

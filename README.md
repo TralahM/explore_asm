@@ -22,15 +22,15 @@ Exploring Assembly Programming for embedded systems
 [![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge)](https://github.com/TralahM)
 
 # Screenshots
-![First](first.png)
+![First](img/first.png)
 
-![Second](second.png)
+![Second](img/second.png)
 
-![Third](third.png)
+![Third](img/third.png)
 
-![Final](final.png)
+![Final](img/final.png)
 
-![Bootloader](bootloader.png)
+![Bootloader](img/bootloader.png)
 
 # Dependencies
 - Qemu

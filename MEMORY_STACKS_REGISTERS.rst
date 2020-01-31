@@ -25,13 +25,13 @@ In another separate window lets obtain the process id( **pid** ) of the program 
 
 The result should look like
 
-.. image:: obtain_pid.png
+.. image:: img/obtain_pid.png
 
 In the linux filesystem the **/proc/** contains the runtime information associated with all running
 processes  and thus you should find a directory in this directory with a name corresponding
 to the process id you obtained above.
 
-.. image:: proc_pid.png
+.. image:: img/proc_pid.png
 
 Our interest is the *maps* file which contains the memory layout in virtual memory
 
@@ -39,6 +39,6 @@ Our interest is the *maps* file which contains the memory layout in virtual memo
 
    $ cat /proc/YOUR_PID/maps
 
-.. image:: maps_file.png
+.. image:: img/maps_file.png
 
 
